@@ -1,2 +1,3 @@
-# accesibility-todo-list
-An example of accesibility TODO list with react
+# Accessible todo list
+
+Small example of a TODO list in React that favors accesibility
